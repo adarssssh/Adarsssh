@@ -1,5 +1,5 @@
 # Adarsssh
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunj-pathak-0b12b1a3)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-tiwari-86ab581b6/)
 # Hello&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <p>
@@ -23,10 +23,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 # Recent Projects
-- A Data Science and Machine learning related project on [Covid-19-Analysis-Visualization-and-Prediction](https://github.com/KunjPathak12/Covid-19-Analysis-Visualization-and-Prediction.git) 🦠.
+- A Data Science and Machine learning related project on [Covid-19-Analysis-Visualization-and-Prediction](https://github.com/adarssssh/WorkForce-Management).
 # Stats 📊
-![KunjPathak12github stats](https://github-readme-stats.vercel.app/api?username=KunjPathak12&show_icons=true&hide_border=true)
+![Adarsh Tiwarigithub stats](https://github-readme-stats.vercel.app/api?username=adarssshs&show_icons=true&hide_border=true)
 # Languages 📕
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunjPathak12&layout=compact)](https://github.com/KunjPathak12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarssssh&layout=compact)](https://github.com/KunjPathak12/github-readme-stats)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=KunjPathak12)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarssssh)
