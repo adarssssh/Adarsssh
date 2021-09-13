@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 # Recent Projects
-- A Data Science and Machine learning related project on [WorkForce Management](https://github.com/adarssssh/WorkForce-Management).
+- A basic worker monitoring project [WorkForce Management](https://github.com/adarssssh/WorkForce-Management).
 # Stats 📊
 ![Adarsh Tiwarigithub stats](https://github-readme-stats.vercel.app/api?username=adarsssh&show_icons=true&hide_border=true)
 # Languages 📕
