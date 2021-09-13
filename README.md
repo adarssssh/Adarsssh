@@ -23,9 +23,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 # Recent Projects
-- A Data Science and Machine learning related project on [Covid-19-Analysis-Visualization-and-Prediction](https://github.com/adarssssh/WorkForce-Management).
+- A Data Science and Machine learning related project on [WorkForce Management](https://github.com/adarssssh/WorkForce-Management).
 # Stats 📊
-![Adarsh Tiwarigithub stats](https://github-readme-stats.vercel.app/api?username=adarssshs&show_icons=true&hide_border=true)
+![Adarsh Tiwarigithub stats](https://github-readme-stats.vercel.app/api?username=adarsssh&show_icons=true&hide_border=true)
 # Languages 📕
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarssssh&layout=compact)](https://github.com/KunjPathak12/github-readme-stats)
 
