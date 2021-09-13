@@ -25,7 +25,7 @@
 # Recent Projects
 - A basic worker monitoring project [WorkForce Management](https://github.com/adarssssh/WorkForce-Management).
 # Stats 📊
-![Adarsh Tiwarigithub stats](https://github-readme-stats.vercel.app/api?username=adarsssh&show_icons=true&hide_border=true)
+![Adarsh Tiwarigithub stats](https://github-readme-stats.vercel.app/api?username=adarssssh&show_icons=true&hide_border=true)
 # Languages 📕
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarssssh&layout=compact)](https://github.com/KunjPathak12/github-readme-stats)
 
