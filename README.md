@@ -23,6 +23,6 @@
 # Stats 📊
 ![Adarsh Tiwarigithub stats](https://github-readme-stats.vercel.app/api?username=adarssssh&show_icons=true&hide_border=true)
 # Languages 📕
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarssssh&layout=compact)](https://github.com/KunjPathak12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarssssh&layout=compact)](https://github.com/adarssssh/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarssssh)
